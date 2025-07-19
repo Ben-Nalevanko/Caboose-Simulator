@@ -11,5 +11,5 @@ Use LSTM-RNNs to allow simulated creatures to learn from prior experiences and a
 // diagram of renderer/UI/interpreter structure
 
 ### Software Versioning
-AUX: Godot 4.4.1., Stable distribution for Linux. GDScript and C++ through GDExtensions.
+AUX: Godot 4.4.1., Stable distribution for Linux. GDScript and C++ through GDExtensions.  
 RNN: Whatever works, honestly.
